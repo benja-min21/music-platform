@@ -2,7 +2,7 @@
 
 Student Name: Benjamin Chomba  
 Student ID: [2411502844]  
-GitHub Repository: [Add Repo Link]
+GitHub Repository: [https://github.com/benja-min21/music-platform.git]
 
 ---
 
